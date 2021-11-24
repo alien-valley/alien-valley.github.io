@@ -8,7 +8,10 @@ layout: default
 <div style="width: fit-content">
 <h1><i class="fab fa-twitter"></i> <a href="https://twitter.com/alien_valley_io">alien_valley_io</a></h1>
 <h1><i class="fab fa-github"></i> <a href="https://github.com/alien-valley">alien-valley</a></h1>
+<h1><i class="fab fa-medium"></i> <a href="https://medium.com/@alien-valley">@alien-valley</a></h1>
+<h1><i class="fab fa-instagram"></i> <a href="https://www.instagram.com/alien.valley.io/">alien.valley.io</a></h1>
 <h1><i class="fas fa-envelope"></i> <a href="mailto:alien-valley@protonmail.com">alien-valley@protonmail.com</a></h1>
+
 </div>
 </div>
 
