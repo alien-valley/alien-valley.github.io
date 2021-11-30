@@ -8,8 +8,8 @@ layout: default
 <div style="width: fit-content">
 <h1><i class="fab fa-twitter"></i> <a href="https://twitter.com/alien_valley_io">alien_valley_io</a></h1>
 <h1><i class="fab fa-github"></i> <a href="https://github.com/alien-valley">alien-valley</a></h1>
-<h1><i class="fab fa-medium"></i> <a href="https://medium.com/@alien-valley">@alien-valley</a></h1>
-<h1><i class="fab fa-instagram"></i> <a href="https://www.instagram.com/alien.valley.io/">alien.valley.io</a></h1>
+<h1 style="display:none"><i class="fab fa-medium"></i> <a href="https://medium.com/@alien-valley">@alien-valley</a></h1>
+<h1 style="display:none"><i class="fab fa-instagram"></i> <a href="https://www.instagram.com/alien.valley.io/">alien.valley.io</a></h1>
 <h1><i class="fas fa-envelope"></i> <a href="mailto:alien-valley@protonmail.com">alien-valley@protonmail.com</a></h1>
 <h1><i class="fab fa-telegram"></i> <a href="https://t.me/vonsbak">@VONSBÄK</a></h1>
 </div>
@@ -20,6 +20,7 @@ layout: default
 Meet our [free plasma telegram bot](https://t.me/alien_valley_plasma_bot). 
 The first 200 users to use the bot will be fused 50 QSR. 
 In the future the project might change, by revoking some old entries to allow new users to receive on-demand plasma.
+Feel free to fork the code on <i class="fab fa-github"></i> <a href="https://github.com/alien-valley/plasma-bot">GitHub</a>.
 <br />
 
 ## Contributing
@@ -31,5 +32,5 @@ In the future delegators will be rewarded, but at the moment, any contribution i
 <div style="margin-left:30px">
     <div><i class="fas fa-check-square"></i> <a href="https://t.me/alien_valley_plasma_bot">plasma telegram bot</a></div>
     <div><i class="fas fa-square"></i> Medium post explaining what alien-valley does</div>
-    <div><i class="fas fa-square"></i> Find a way to determine how much each address delegated to the pillar</div>
+    <div><i class="fas fa-square"></i> Find a way to determine how much each address has delegated to the pillar</div>
 </div>
