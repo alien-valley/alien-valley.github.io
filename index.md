@@ -16,10 +16,10 @@ layout: default
 </div>
 <br />
 
-## [Maximizing delegation rewards](https://alien-valley.io/who-to-delegate.html)
+## [Maximizing delegation rewards](http://alien-valley.io/who-to-delegate.html)
 
 Check out the detailed list of pillars along with the estimated delegation
-reward [here](https://alien-valley.io/who-to-delegate.html). Note that the values can change from time to time. In case of
+reward [here](http://alien-valley.io/who-to-delegate.html). Note that the values can change from time to time. In case of
 Momentum rewards, they are shared equally between all delegators. Delegating to a pillar with a lower weight ensures you
 get more of the rewards. Delegation rewards don't take into consideration pillars weight. Make sure to follow
 the [telegram pillar tracker](https://t.me/pillar_tracker) made by [@vilkris](https://t.me/@vilkris) to be up to date to
@@ -43,7 +43,7 @@ at the moment, any contribution is highly appreciated.
 
 <div style="margin-left:30px">
     <div><i class="fas fa-check-square"></i> <a href="https://t.me/alien_valley_plasma_bot">plasma telegram bot</a></div>
-    <div><i class="fas fa-check-square"></i> <a href="https://alien-valley.io/who-to-delegate.html">list of estimated best delegation rewards</a></div>
+    <div><i class="fas fa-check-square"></i> <a href="http://alien-valley.io/who-to-delegate.html">list of estimated best delegation rewards</a></div>
     <div><i class="fas fa-square"></i> Medium post explaining what alien-valley does</div>
     <div><i class="fas fa-square"></i> Find a way to determine how much each address has delegated to the pillar</div>
 </div>
