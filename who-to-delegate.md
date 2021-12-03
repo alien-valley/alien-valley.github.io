@@ -36,4 +36,4 @@ layout: default
     </tbody>
 </table>
 
-<script src="..//assets/js/whoToDelegate.js"></script>
+<script src="assets/js/whoToDelegate.js"></script>
