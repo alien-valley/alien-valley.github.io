@@ -38,7 +38,7 @@ $.ajax({
             let stats = val.currentStats.producedMomentums + "/" + val.currentStats.expectedMomentums;
             let percentageS = "0%";
             let percentage = 0;
-            if (val.currentStats.expectedMomentums != 0) {
+            if (val.currentStats.expectedMomentums !== 0) {
                 percentageS = (100 * val.currentStats.producedMomentums / val.currentStats.expectedMomentums).toFixed(0) + "%";
                 percentage = val.currentStats.producedMomentums / val.currentStats.expectedMomentums;
             }
