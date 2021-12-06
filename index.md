@@ -11,7 +11,9 @@ layout: default
 <h1 style="display:none"><i class="fab fa-medium"></i> <a href="https://medium.com/@alien-valley">@alien-valley</a></h1>
 <h1 style="display:none"><i class="fab fa-instagram"></i> <a href="https://www.instagram.com/alien.valley.io/">alien.valley.io</a></h1>
 <h1><i class="fas fa-envelope"></i> <a href="mailto:alien-valley@protonmail.com">alien-valley@protonmail.com</a></h1>
+<br />
 <h1><i class="fab fa-telegram"></i> <a href="https://t.me/vonsbak">@VONSBÄK</a></h1>
+<h1><i class="fab fa-telegram"></i> <a href="https://t.me/BJORKSNAS">@BJÖRKSNÄS</a></h1>
 </div>
 </div>
 <br />
