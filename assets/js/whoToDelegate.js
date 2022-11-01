@@ -1,6 +1,6 @@
 $.ajax({
     type: 'POST',
-    url: 'http://139.177.178.226:35997',
+    url: 'https://secure.deeznnodez.com:35997',
     crossDomain: true,
     data: '{"jsonrpc": "2.0","id": 30,"method": "embedded.pillar.getAll","params": [0, 150]}',
     beforeSend: function (xhr) {
